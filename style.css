@@ -1,0 +1,43 @@
+.banner {
+    background: url("image/g1.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 10%;
+    color: #FFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+
+.navbar {
+    padding-right: 250px;
+
+}
+.navbar-nav{
+    padding-left: 180px;
+}
+
+li {
+    margin-left: 100px;
+    width: 160px;
+}
+
+
+.crop-img {
+    object-fit: cover;
+    font-size: 100px;
+}
+
+.produk img {
+    width: 250px;
+    border: 8px solid #CCCCCC;
+}
+
+.footer {
+    background-color: rgb(0, 44, 126);
+    color: white;
+    margin-top: 50px;
+    padding-left: 180px;
+}
+nav-link {
+    background-color: grey;
+}
